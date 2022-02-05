@@ -5,12 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Pachinko
     url: https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Showball
+    url: https://api.microgaming.co.uk/api/launch?id=SuperShowball&platform=h5desktop&canAuth=false
+  - name: Fu 88
+    url: https://api.microgaming.co.uk/api/launch?id=Fu88&platform=h5desktop&canAuth=false
+  - name: Bingote
+    url: https://api.microgaming.co.uk/api/launch?id=Bingote&platform=h5desktop&canAuth=false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
