@@ -16,6 +16,7 @@ sites:
     url: https://api.microgaming.co.uk/api/launch?id=Bingote&platform=h5desktop&canAuth=false
     icon: https://marketing.neko.games/img/Bingote_Animation525x350.gif
     
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
