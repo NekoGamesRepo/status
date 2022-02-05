@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: Pachinko
     url: https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false
-    icon: https://marketing.neko.games/favicon.ico
+    icon: https://marketing.neko.games/img/Pachinko_Animation600x350.gif
   - name: Showball
     url: https://api.microgaming.co.uk/api/launch?id=SuperShowball&platform=h5desktop&canAuth=false
     icon: https://marketing.neko.games/favicon.ico
