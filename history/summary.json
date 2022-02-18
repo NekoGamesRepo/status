@@ -4,19 +4,19 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Pachinko_Animation600x350.gif",
     "slug": "pachinko",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 1160,
-    "timeWeek": 1126,
-    "timeMonth": 1120,
-    "timeYear": 1120,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1133,
+    "timeDay": 1281,
+    "timeWeek": 1161,
+    "timeMonth": 1133,
+    "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-02-18": 0
+      "2022-02-18": 13
     }
   },
   {
