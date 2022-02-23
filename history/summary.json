@@ -4,19 +4,19 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Pachinko_Animation600x350.gif",
     "slug": "pachinko",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 590,
-    "timeWeek": 937,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1058,
+    "timeDay": 663,
+    "timeWeek": 924,
+    "timeMonth": 1058,
+    "timeYear": 1058,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=SuperShowball&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/SuperShowball_Animation600x350.gif",
     "slug": "showball",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 268,
-    "timeWeek": 234,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 248,
+    "timeDay": 242,
+    "timeWeek": 229,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=Fu88&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Fu88_Animation600x350.gif",
     "slug": "fu-88",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 266,
-    "timeWeek": 234,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 248,
+    "timeDay": 240,
+    "timeWeek": 228,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 9
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=Bingote&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Bingote_Animation525x350.gif",
     "slug": "bingote",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 269,
-    "timeWeek": 234,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 248,
+    "timeDay": 242,
+    "timeWeek": 229,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 9
     }
   }
 ]
