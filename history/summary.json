@@ -5,19 +5,17 @@
     "icon": "https://marketing.neko.games/img/Pachinko_Animation600x350.gif",
     "slug": "pachinko",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1058,
-    "timeDay": 663,
-    "timeWeek": 924,
-    "timeMonth": 1058,
-    "timeYear": 1058,
-    "dailyMinutesDown": {
-      "2022-02-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1071,
+    "timeDay": 870,
+    "timeWeek": 982,
+    "timeMonth": 1071,
+    "timeYear": 1071,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Showball",
@@ -25,19 +23,17 @@
     "icon": "https://marketing.neko.games/img/SuperShowball_Animation600x350.gif",
     "slug": "showball",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 248,
-    "timeDay": 242,
-    "timeWeek": 229,
-    "timeMonth": 248,
-    "timeYear": 248,
-    "dailyMinutesDown": {
-      "2022-02-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 251,
+    "timeDay": 291,
+    "timeWeek": 246,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fu 88",
@@ -45,19 +41,17 @@
     "icon": "https://marketing.neko.games/img/Fu88_Animation600x350.gif",
     "slug": "fu-88",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 248,
-    "timeDay": 240,
-    "timeWeek": 228,
-    "timeMonth": 248,
-    "timeYear": 248,
-    "dailyMinutesDown": {
-      "2022-02-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 252,
+    "timeDay": 298,
+    "timeWeek": 248,
+    "timeMonth": 252,
+    "timeYear": 252,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bingote",
@@ -65,18 +59,16 @@
     "icon": "https://marketing.neko.games/img/Bingote_Animation525x350.gif",
     "slug": "bingote",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 248,
-    "timeDay": 242,
-    "timeWeek": 229,
-    "timeMonth": 248,
-    "timeYear": 248,
-    "dailyMinutesDown": {
-      "2022-02-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 251,
+    "timeDay": 292,
+    "timeWeek": 246,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {}
   }
 ]
