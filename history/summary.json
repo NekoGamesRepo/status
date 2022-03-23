@@ -4,9 +4,9 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Pachinko_Animation600x350.gif",
     "slug": "pachinko",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 941,
     "timeMonth": 985,
     "timeYear": 1036,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   },
   {
     "name": "Showball",
