@@ -4,11 +4,11 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Pachinko_Animation600x350.gif",
     "slug": "pachinko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1093,
     "timeDay": 864,
@@ -16,6 +16,7 @@
     "timeMonth": 1188,
     "timeYear": 1093,
     "dailyMinutesDown": {
+      "2022-04-29": 5,
       "2022-03-25": 19
     }
   },
@@ -24,28 +25,30 @@
     "url": "https://api.microgaming.co.uk/api/launch?id=SuperShowball&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/SuperShowball_Animation600x350.gif",
     "slug": "showball",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 189,
     "timeWeek": 232,
     "timeMonth": 220,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 3
+    }
   },
   {
     "name": "Fu 88",
     "url": "https://api.microgaming.co.uk/api/launch?id=Fu88&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Fu88_Animation600x350.gif",
     "slug": "fu-88",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
@@ -53,14 +56,16 @@
     "timeWeek": 231,
     "timeMonth": 219,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 2
+    }
   },
   {
     "name": "Bingote",
     "url": "https://api.microgaming.co.uk/api/launch?id=Bingote&platform=h5desktop&canAuth=false",
     "icon": "https://marketing.neko.games/img/Bingote_Animation525x350.gif",
     "slug": "bingote",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 231,
     "timeMonth": 222,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 0
+    }
   }
 ]
