@@ -1,7 +1,7 @@
 url: https://api.microgaming.co.uk/api/launch?id=Bingote&platform=h5desktop&canAuth=false
-status: up
-code: 200
-responseTime: 321
-lastUpdated: 2022-05-09T07:40:21.934Z
+status: down
+code: 500
+responseTime: 4092
+lastUpdated: 2022-05-09T16:55:12.962Z
 startTime: Sat Feb 05 2022 12:09:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
