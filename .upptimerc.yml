@@ -4,17 +4,23 @@ repo: status # The name of this repository
 
 sites:
   - name: Pachinko
-    url: https://api.microgaming.co.uk/api/launch?id=Pachinko&platform=h5desktop&canAuth=false
+    url: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=Pachinko&ul=en&variant=UAT-demo
     icon: https://marketing.neko.games/img/Pachinko_Animation600x350.gif
   - name: Showball
-    url: https://api.microgaming.co.uk/api/launch?id=SuperShowball&platform=h5desktop&canAuth=false
+    url: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=SuperShowball&ul=en&variant=UAT-demo
     icon: https://marketing.neko.games/img/SuperShowball_Animation600x350.gif
   - name: Fu 88
-    url: https://api.microgaming.co.uk/api/launch?id=Fu88&platform=h5desktop&canAuth=false
+    url: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=Fu88&ul=en&variant=UAT-demo
     icon: https://marketing.neko.games/img/Fu88_Animation600x350.gif
   - name: Bingote
-    url: https://api.microgaming.co.uk/api/launch?id=Bingote&platform=h5desktop&canAuth=false
+    url: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=Bingote&ul=en&variant=UAT-demo
     icon: https://marketing.neko.games/img/Bingote_Animation525x350.gif
+  - name: Golden Quest
+    url: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=1524GoldenQuest&ul=en&variant=UAT-demo
+    icon: https://marketing.neko.games/img/1524GoldenQuest_Animation524x350.gif
+  - name: Immortal Romance
+    url: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&sext1=demo&sext2=demo&serverid=22619&gameid=ImmortalRomanceVideoBingo&ul=en&variant=UAT-demo
+    icon: https://marketing.neko.games/img/ImmortalRomanceVideoBingo_Button_Rectangle.png
     
     
 status-website:
