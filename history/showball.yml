@@ -1,7 +1,7 @@
 url: https://api.microgaming.co.uk/api/launch?id=SuperShowball&platform=h5desktop&canAuth=false
-status: up
-code: 200
-responseTime: 190
-lastUpdated: 2022-05-10T18:09:34.265Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-05-10T19:09:56.513Z
 startTime: Sat Feb 05 2022 12:09:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
