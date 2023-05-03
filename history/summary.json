@@ -5,16 +5,16 @@
     "icon": "https://marketing.neko.games/img/Pachinko_Animation600x350.gif",
     "slug": "pachinko",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
-    "time": 621,
-    "timeDay": 231,
+    "time": 619,
+    "timeDay": 278,
     "timeWeek": 387,
-    "timeMonth": 307,
-    "timeYear": 502,
+    "timeMonth": 311,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2023-01-30": 36,
       "2022-10-10": 31,
@@ -26,8 +26,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 458,
-      "2022-05-05": 90,
-      "2022-05-03": 45
+      "2022-05-05": 90
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 247,
-    "timeDay": 599,
+    "timeDay": 180,
     "timeWeek": 260,
-    "timeMonth": 220,
+    "timeMonth": 221,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-01-30": 36,
@@ -56,8 +55,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 456,
-      "2022-05-05": 89,
-      "2022-05-03": 44
+      "2022-05-05": 89
     }
   },
   {
@@ -72,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
     "time": 271,
-    "timeDay": 146,
-    "timeWeek": 223,
-    "timeMonth": 224,
-    "timeYear": 281,
+    "timeDay": 183,
+    "timeWeek": 163,
+    "timeMonth": 217,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2023-01-30": 36,
       "2022-08-03": 254,
@@ -86,8 +84,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 455,
-      "2022-05-05": 87,
-      "2022-05-03": 44
+      "2022-05-05": 87
     }
   },
   {
@@ -101,9 +98,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
-    "time": 252,
-    "timeDay": 145,
-    "timeWeek": 173,
+    "time": 251,
+    "timeDay": 164,
+    "timeWeek": 171,
     "timeMonth": 178,
     "timeYear": 256,
     "dailyMinutesDown": {
@@ -116,8 +113,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 452,
-      "2022-05-05": 87,
-      "2022-05-03": 43
+      "2022-05-05": 87
     }
   },
   {
@@ -131,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 184,
-    "timeDay": 167,
-    "timeWeek": 161,
-    "timeMonth": 186,
-    "timeYear": 184,
+    "time": 185,
+    "timeDay": 599,
+    "timeWeek": 224,
+    "timeMonth": 193,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2022-08-03": 254,
       "2022-07-02": 141,
@@ -154,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 181,
-    "timeDay": 174,
+    "timeDay": 180,
     "timeWeek": 167,
-    "timeMonth": 198,
+    "timeMonth": 191,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2023-01-30": 28,
