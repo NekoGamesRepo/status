@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
-    "time": 614,
-    "timeDay": 331,
-    "timeWeek": 260,
-    "timeMonth": 315,
-    "timeYear": 489,
+    "uptimeYear": "99.09%",
+    "time": 612,
+    "timeDay": 255,
+    "timeWeek": 272,
+    "timeMonth": 310,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2023-01-30": 36,
       "2022-10-10": 31,
@@ -23,8 +23,7 @@
       "2022-06-30": 15,
       "2022-05-10": 583,
       "2022-05-09": 885,
-      "2022-05-08": 1440,
-      "2022-05-07": 1440
+      "2022-05-08": 1440
     }
   },
   {
@@ -37,12 +36,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
-    "time": 246,
-    "timeDay": 182,
-    "timeWeek": 275,
-    "timeMonth": 224,
-    "timeYear": 249,
+    "uptimeYear": "99.10%",
+    "time": 247,
+    "timeDay": 611,
+    "timeWeek": 309,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2023-01-30": 36,
       "2022-08-03": 254,
@@ -50,8 +49,7 @@
       "2022-06-30": 15,
       "2022-05-10": 571,
       "2022-05-09": 885,
-      "2022-05-08": 1440,
-      "2022-05-07": 1440
+      "2022-05-08": 1440
     }
   },
   {
@@ -64,12 +62,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.11%",
     "time": 270,
-    "timeDay": 183,
-    "timeWeek": 171,
-    "timeMonth": 208,
-    "timeYear": 269,
+    "timeDay": 187,
+    "timeWeek": 182,
+    "timeMonth": 210,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2023-01-30": 36,
       "2022-08-03": 254,
@@ -77,8 +75,7 @@
       "2022-06-30": 15,
       "2022-05-10": 532,
       "2022-05-09": 885,
-      "2022-05-08": 1440,
-      "2022-05-07": 1440
+      "2022-05-08": 1440
     }
   },
   {
@@ -87,16 +84,16 @@
     "icon": "https://marketing.neko.games/img/Bingote_Animation525x350.gif",
     "slug": "bingote",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.11%",
     "time": 251,
-    "timeDay": 262,
-    "timeWeek": 186,
-    "timeMonth": 184,
-    "timeYear": 234,
+    "timeDay": 183,
+    "timeWeek": 191,
+    "timeMonth": 178,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2023-01-30": 36,
       "2022-08-03": 254,
@@ -104,8 +101,7 @@
       "2022-06-30": 15,
       "2022-05-10": 507,
       "2022-05-09": 885,
-      "2022-05-08": 1440,
-      "2022-05-07": 1440
+      "2022-05-08": 1440
     }
   },
   {
@@ -120,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 185,
-    "timeDay": 175,
-    "timeWeek": 239,
-    "timeMonth": 198,
+    "timeDay": 178,
+    "timeWeek": 245,
+    "timeMonth": 192,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2022-08-03": 254,
@@ -142,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 181,
-    "timeDay": 178,
-    "timeWeek": 172,
-    "timeMonth": 185,
+    "timeDay": 175,
+    "timeWeek": 181,
+    "timeMonth": 186,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2023-01-30": 28,
