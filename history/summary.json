@@ -5,18 +5,16 @@
     "icon": "https://neko.games/wp-content/uploads/2023/01/neko.png",
     "slug": "neko",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1662,
-    "timeDay": 3468,
-    "timeWeek": 2209,
-    "timeMonth": 1662,
-    "timeYear": 1662,
-    "dailyMinutesDown": {
-      "2024-05-25": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1665,
+    "timeDay": 3758,
+    "timeWeek": 2100,
+    "timeMonth": 1665,
+    "timeYear": 1665,
+    "dailyMinutesDown": {}
   }
 ]
