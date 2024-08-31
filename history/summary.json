@@ -4,17 +4,19 @@
     "url": "https://neko.games",
     "icon": "https://neko.games/wp-content/uploads/2023/01/neko.png",
     "slug": "neko",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1570,
-    "timeDay": 783,
-    "timeWeek": 779,
-    "timeMonth": 1348,
-    "timeYear": 1570,
-    "dailyMinutesDown": {}
+    "time": 1561,
+    "timeDay": 595,
+    "timeWeek": 733,
+    "timeMonth": 1317,
+    "timeYear": 1561,
+    "dailyMinutesDown": {
+      "2024-08-31": 0
+    }
   }
 ]
