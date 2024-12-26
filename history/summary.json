@@ -6,17 +6,15 @@
     "slug": "neko",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1624,
-    "timeDay": 4764,
-    "timeWeek": 2361,
-    "timeMonth": 1914,
-    "timeYear": 1624,
-    "dailyMinutesDown": {
-      "2024-12-25": 11
-    }
+    "time": 1637,
+    "timeDay": 5890,
+    "timeWeek": 2674,
+    "timeMonth": 2040,
+    "timeYear": 1637,
+    "dailyMinutesDown": {}
   }
 ]
