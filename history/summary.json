@@ -5,16 +5,16 @@
     "icon": "https://neko.games/wp-content/uploads/2023/01/neko.png",
     "slug": "neko",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.88%",
-    "time": 1548,
-    "timeDay": 596,
-    "timeWeek": 1228,
-    "timeMonth": 1018,
-    "timeYear": 1551,
+    "time": 1549,
+    "timeDay": 1763,
+    "timeWeek": 1295,
+    "timeMonth": 1048,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2025-04-09": 605
     }
