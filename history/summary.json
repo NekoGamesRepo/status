@@ -4,7 +4,7 @@
     "url": "https://neko.games",
     "icon": "https://neko.games/wp-content/uploads/2023/01/neko.png",
     "slug": "neko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1399,
     "timeYear": 1564,
     "dailyMinutesDown": {
+      "2025-07-02": 0,
       "2025-06-23": 131,
       "2025-06-20": 1118,
       "2025-06-19": 263,
