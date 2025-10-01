@@ -1,7 +1,7 @@
 url: https://neko.games
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2025-09-30T23:05:56.819Z
+status: down
+code: 502
+responseTime: 21246
+lastUpdated: 2025-10-01T19:09:57.715Z
 startTime: 2024-05-06T22:38:18.347Z
 generator: Upptime <https://github.com/upptime/upptime>
